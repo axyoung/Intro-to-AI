@@ -1,0 +1,5 @@
+Trained Set Accuracy: 95.390782 percent
+Training file used: trainingSet.txt, Testing file used: trainingSet.txt
+
+Test Set Accuracy: 78.672032 percent
+Training file used: trainingSet.txt, Testing file used: testSet.txt
